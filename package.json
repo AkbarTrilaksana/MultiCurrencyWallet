@@ -253,7 +253,7 @@
     "moment": "^2.29.1",
     "moment-with-locales-es6": "^1.0.1",
     "node-gyp": "^8.0.0",
-    "patch-package": "^6.4.7",
+    "patch-package": "^7.0.1",
     "postcss": "^8.2.4",
     "puppeteer": "^11.0.0",
     "react": "^17.0.1",
