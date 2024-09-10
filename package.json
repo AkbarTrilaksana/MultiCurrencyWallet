@@ -271,8 +271,8 @@
     "react-joyride": "^2.3.0",
     "react-loading-skeleton": "^3.0.1",
     "react-redux": "^7.2.2",
-    "react-router": "^5.2.0",
-    "react-router-dom": "^5.2.0",
+    "react-router": "^6.0.0",
+    "react-router-dom": "^6.0.0",
     "react-tag-autocomplete": "^6.1.0",
     "react-tooltip": "^4.2.11",
     "rebuild": "^0.1.2",
@@ -284,6 +284,6 @@
     "swiper": "^7.0.3",
     "typeforce": "^1.18.0",
     "valuelink": "^1.6.2",
-    "web3": "^1.5.1"
+    "web3": "^4.0.1"
   }
 }
